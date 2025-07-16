@@ -1,6 +1,6 @@
 # Financial-Loan-Analysis
 
-🏦 Bank Loan Report - Power BI Dashboard
+🏦 Bank Loan Report - Excel Dashboard
 
 This project presents a comprehensive *Bank Loan Report* built using *Power BI*. The goal is to monitor and assess the bank’s lending activities by analyzing key metrics such as loan applications, funding, repayments, and loan statuses. The report is designed to support strategic decision-making and operational efficiency across lending functions.
 
